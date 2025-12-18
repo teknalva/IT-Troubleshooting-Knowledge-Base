@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT-Troubleshooting-Knowledge-Base</title>
-    <link>https://example.org/index.html</link>
+    <link>http://localhost:1313/index.html</link>
     <description>A centralized repository for real-world IT troubleshooting, covering production issues, root causes, and step-by-step resolutions across infrastructure, cloud, and DevOps systems.&#xD;Built from real incidents, not theory.&#xA;📌 Scope&#xD;This repository documents practical fixes for recurring IT problems, including:&#xA;🖥️ Linux / Operating Systems ☁️ Cloud Platforms (AWS, Azure, GCP) 🔧 DevOps &amp; CI/CD GitLab GitHub Jenkins Argo CD 📦 Containers &amp; Kubernetes Docker Helm Kubernetes 🗄️ Databases PostgreSQL MySQL Redis 🔐 Security &amp; Certificates TLS / SSL IAM 🌐 Networking &amp; DNS 🚀 Performance &amp; Scaling</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Dec 2025 11:47:02 +0530</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://example.org/linux/index.html</link>
+      <link>http://localhost:1313/linux/index.html</link>
       <pubDate>Thu, 18 Dec 2025 11:47:02 +0530</pubDate>
-      <guid>https://example.org/linux/index.html</guid>
+      <guid>http://localhost:1313/linux/index.html</guid>
       <description>This is for testing purpose</description>
     </item>
   </channel>

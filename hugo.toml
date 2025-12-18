@@ -2,4 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'IT-Troubleshooting-Knowledge-Base'
 theme = 'hugo-theme-relearn'
+[params]
+  additionalCSS = ["css/custom.css"]
 
